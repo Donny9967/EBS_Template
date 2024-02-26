@@ -1,0 +1,118 @@
+%!Adobe-FontList 1.23
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BlackHanSans-Regular
+FamilyName:Black Han Sans
+StyleName:Regular
+FullName:Black Han Sans Regular
+MenuName:Black Han Sans
+StyleBits:0
+FamilyNameNative:Black Han Sans
+StyleNameNative:Regular
+FullNameNative:Black Han Sans Regular
+WritingScript:Korean
+OutlineFileName:\\192.168.0.150\콘텐츠디자인팀\003_외주\EBS\하노이의 탑\Font\BlackHanSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:979304
+FileModTime:1519311600
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Win,1,Black Han Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GmarketSansTTFBold
+FamilyName:Gmarket Sans TTF
+StyleName:Bold
+FullName:Gmarket Sans TTF Bold
+MenuName:G마켓 산스 TTF Bold
+StyleBits:0
+FamilyNameNative:G마켓 산스 TTF
+StyleNameNative:Bold
+FullNameNative:G마켓 산스 TTF Bold
+WritingScript:Korean
+OutlineFileName:\\192.168.0.150\콘텐츠디자인팀\003_외주\EBS\하노이의 탑\Font\GmarketSansTTF\GmarketSansTTFBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2511976
+FileModTime:1571632890
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gmarket Sans TTF Bold
+NameArray:3,Mac,4,G마켓 산스 TTF Bold
+NameArray:0,Win,1,Gmarket Sans TTF Bold
+NameArray:0,Win,16,Gmarket Sans TTF
+NameArray:3,Win,1,G마켓 산스 TTF Bold
+NameArray:3,Win,16,G마켓 산스 TTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GmarketSansTTFLight
+FamilyName:Gmarket Sans TTF
+StyleName:Light
+FullName:Gmarket Sans TTF Light
+MenuName:G마켓 산스 TTF Light
+StyleBits:0
+FamilyNameNative:G마켓 산스 TTF
+StyleNameNative:Light
+FullNameNative:G마켓 산스 TTF Light
+WritingScript:Korean
+OutlineFileName:\\192.168.0.150\콘텐츠디자인팀\003_외주\EBS\하노이의 탑\Font\GmarketSansTTF\GmarketSansTTFLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2413604
+FileModTime:1571632890
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gmarket Sans TTF Light
+NameArray:3,Mac,4,G마켓 산스 TTF Light
+NameArray:0,Win,1,Gmarket Sans TTF Light
+NameArray:0,Win,16,Gmarket Sans TTF
+NameArray:3,Win,1,G마켓 산스 TTF Light
+NameArray:3,Win,16,G마켓 산스 TTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GmarketSansTTFMedium
+FamilyName:Gmarket Sans TTF
+StyleName:Medium
+FullName:Gmarket Sans TTF Medium
+MenuName:G마켓 산스 TTF Medium
+StyleBits:0
+FamilyNameNative:G마켓 산스 TTF
+StyleNameNative:Medium
+FullNameNative:G마켓 산스 TTF Medium
+WritingScript:Korean
+OutlineFileName:\\192.168.0.150\콘텐츠디자인팀\003_외주\EBS\하노이의 탑\Font\GmarketSansTTF\GmarketSansTTFMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2417020
+FileModTime:1571632890
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gmarket Sans TTF Medium
+NameArray:3,Mac,4,G마켓 산스 TTF Medium
+NameArray:0,Win,1,Gmarket Sans TTF Medium
+NameArray:0,Win,16,Gmarket Sans TTF
+NameArray:3,Win,1,G마켓 산스 TTF Medium
+NameArray:3,Win,16,G마켓 산스 TTF
+%EndFont
+
